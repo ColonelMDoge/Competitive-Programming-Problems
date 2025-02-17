@@ -1,4 +1,4 @@
-package ccc._2011;
+package ccc;
 
 import java.util.Scanner;
 
