@@ -1,4 +1,4 @@
-package ccc._2010;
+package ccc;
 
 import java.util.*;
 
