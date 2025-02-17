@@ -1,4 +1,4 @@
-package ccc._2015;
+package ccc;
 
 import java.util.Scanner;
 import java.util.Stack;
