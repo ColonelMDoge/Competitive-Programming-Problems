@@ -1,4 +1,4 @@
-package ccc._2013;
+package ccc;
 
 import java.util.HashSet;
 import java.util.Scanner;
